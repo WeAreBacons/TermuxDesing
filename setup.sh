@@ -98,7 +98,7 @@ clear
 #Script starts
 #cd $HOME
 #cd termuxstyling
-echo Script made by:- Dark Warrior & Bt Alptug
+echo Script made by:- Bt Alptug
 #Uninstall
 if [ -e ".user.cfg" ]
 then
@@ -317,8 +317,8 @@ alias update=\"apt-get update;apt-get upgrade\"" > /data/data/com.termux/files/u
 cd /$HOME
 cd termuxstyling
 echo Script made by
-toilet Dark
-toilet Warrior
+toilet Bt 
+toilet Alptug
 sleep 2
 mdv README.md
 cd $pdir
